@@ -7,6 +7,8 @@
 
 - ✨ Je suis un spécialiste du traitement de la données passionné
 - ⚡ Je suis un expert sur les domaines liés à la Data Science, Data Engineering et sensible aux problématiques DevOps
+- 👯 Mes secteurs de prédilection sont le transport, l'énergie, les télécoms, la production et ouverts aux découvertes 🤔
+- 🔭 Je suis à la recherche des sujets passionnants ayant un intérêt pour mes clients
 
 <!--
 **MinouDu34/MinouDu34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
