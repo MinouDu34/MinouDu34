@@ -10,17 +10,21 @@
 - 👯 Mes secteurs de prédilection sont le transport, l'énergie, les télécoms, la production et ouverts aux découvertes 🤔
 - 🔭 Je suis à la recherche des sujets passionnants ayant un intérêt pour mes clients
 
-<!--
-**MinouDu34/MinouDu34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">Mes langages</h2>
+    
+❤️![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)❤️
+❤️ ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql) ❤️
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 
-Here are some ideas to get you started:
+<h2 align="center">Mes Outils</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
+![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+
+<h2 align="center">Contactez moi !</h2>
