@@ -5,6 +5,9 @@
     <a href="https://www.linkedin.com/in/lucas-nieder-fioletti-20598a19"><img src="https://img.shields.io/badge/Linkedin-%230177B5?style=flat-square&logoColor=white"/
 </p>
 
+- ✨ Je suis un spécialiste du traitement de la données passionné
+- ⚡ Je suis un expert sur les domaines liés à la Data Science, Data Engineering et sensible aux problématiques DevOps
+
 <!--
 **MinouDu34/MinouDu34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
