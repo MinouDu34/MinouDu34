@@ -21,10 +21,12 @@
 
 <h2 align="center">Mes Outils</h2>
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white)
+![Pandas Badge](https://img.shields.io/badge/Pandas-blue?logo=pandas)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white)
+
 
 <h2 align="center">Contactez moi !</h2>
