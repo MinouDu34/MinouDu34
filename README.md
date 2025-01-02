@@ -1,4 +1,4 @@
-<h1 align="center">Salut moi c'est Lucas 👋</h1>
+<h1 align="center">Salut!, Hi!, ¡Hola! 👋</h1>
 
 <p align="center">
     <a href="mailto:lucas.nieder-fioletti@outlook.com"><img src="https://img.shields.io/badge/Outlook-%230177B5?style=flat-square&logoColor=white"/></a>
