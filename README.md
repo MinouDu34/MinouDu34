@@ -1,7 +1,7 @@
 <h1 align="center">Salut moi c'est Lucas 👋</h1>
 
 <p align="center">
-    <a href="mailto:lucas.nieder-fioletti@outlook.com"><img src="https://img.shields.io/badge/Outlook-D14836?style=flat&logoColor=white"/></a>
+    <a href="mailto:lucas.nieder-fioletti@outlook.com"><img src="https://img.shields.io/badge/Outlook-%230177B5?style=flat&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/lucas-nieder-fioletti-20598a19"><img src="https://img.shields.io/badge/Linkedin-%230177B5?style=flat&logoColor=white"/
 </p>
 
